@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Daniel! 👋
 
-- 👯 Atualmente estou trabalhando com desenvolvimento de jogos.
+- 👯 Atualmente trabalhando com desenvolvimento de jogos.
 - 🌱 Estudando Python 3 e C++
-- 🤝 Colaborando com a Range Engine co.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSilvaBA&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSilvaBA&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
