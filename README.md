@@ -19,10 +19,9 @@
 
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block padding: 5px"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 – Wikipédia, a enciclopédia livre">
   <img align="center" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 – Wikipédia, a enciclopédia livre">
-  <img align="center" height="40" width="40" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="JavaScript – Wikipédia, a enciclopédia livre">
   <img align="center" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript – Wikipédia, a enciclopédia livre">
 </div>
