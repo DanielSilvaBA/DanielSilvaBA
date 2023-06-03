@@ -1,7 +1,8 @@
 ### Olá, Eu sou o Daniel! 👋
 
-- 👯 Atualmente trabalhando com desenvolvimento de jogos.
-- 🌱 Linguagens: Python 3, C++, JavaScript, HTML5, CSS
+- 🌱 Conhecimentos em: Python, C++, JavaScript, TypeScript, HTML5, CSS3
+- 👨‍💻 Modelagem Arquitetônica (blender 3d)
+- 🎮 Criação de Jogos (RanGE)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSilvaBA&show_icons=true&theme=radical)
