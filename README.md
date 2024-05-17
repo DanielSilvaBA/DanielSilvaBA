@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Daniel! 👋
 
-- 🌱 Conhecimentos em: Python, C++, JavaScript, TypeScript, HTML5, CSS3
+- 🌱 Conhecimentos em: Python, JavaScript, HTML5, CSS3
 - 👨‍💻 Modelagem Arquitetônica (blender 3d)
 - 🎮 Criação de Jogos (RanGE)
 
