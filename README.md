@@ -1,6 +1,14 @@
+<h1 align="center">🚀 Game Developer | Web Developer 🚀</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experiência+8%20Anos-Programação-informational?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Web%20Developer-2%20Anos-blue?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Back--End%20-Node.js%20&%20Nest.js-critical?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Front--End%20-Next.js%20&%20React.js-critical?style=for-the-badge" />
+</p>
+
 ### Olá, Eu sou o Daniel! 👋
 
-- 🌱 Conhecimentos em: Python, JavaScript, HTML5, CSS3, Node.js, Django
 - 👨‍💻 Modelagem Arquitetônica (blender 3d)
 - 🎮 Criação de Jogos (RanGE)
 
@@ -17,11 +25,78 @@
   <a href="https://www.linkedin.com/in/daniel-santos-7826051b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+---
 
+## 💻 Tecnologias que domino
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 – Wikipédia, a enciclopédia livre">
-  <img align="center" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 – Wikipédia, a enciclopédia livre">
-  <img align="center" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript – Wikipédia, a enciclopédia livre">
-</div>
+<p align="left">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <!-- Front-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
+
+  <!-- Back-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nestjs.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+
+  <!-- Banco de dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
+## 🎮 Game Dev
+
+Embora meu foco atual seja desenvolvimento web, também atuo como **Game Developer independente**, criando sistemas e ferramentas para a comunidade de jogos.
+
+- Experiência com **Python**, **UPBGE 0.3 / 2.79** e **Range Engine**
+- Desenvolvimento de templates vendáveis para itch.io
+- Sistemas como:
+  - Direção de veículos (com física realista)
+  - AI avançada (Tráfego, Inimigos, Pedestres)
+  - Movimento com parkour e foot placement
+  - Sistema de armas, mira e combate TPS
+- Canal e marca pessoal: **FireForge**
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: **asdanielsantos@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-santos-cbr
+- 🌐 itch.io: https://danielsantoscbr.itch.io
+- 📺 YouTube: https://youtube.com/@fireforgegames
+
+---
+
+## 🧠 Filosofia de Código
+
+> **"Primeiro faça funcionar. Depois faça limpo. Então, faça rápido."**  
+> <em>– Kent Beck</em>
+
+> **"Código que não é testado é código quebrado."**  
+> <em>– Autor desconhecido</em>
+
+> **"Simplicidade é a sofisticação máxima."**  
+> <em>– Leonardo da Vinci</em>
+
+---
+
+<p align="center">
+  🔥 Feito com dedicação por <strong>Daniel Santos</strong> • Game Developer & Web Developer
+</p>
